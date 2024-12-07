@@ -16,8 +16,8 @@ public class ClientDemo {
 
         Car car = new Car();
         car.setType("Car");
-        car.setMaxSpeed(200);
-        car.setColor("Red");
+        car.setMaxSpeed(400);
+        car.setColor("pink");
         car.setNumberOfDoors(4);
 
         Truck truck = new Truck();
